@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "bwv-847",
+  "version": "1.0.0",
+  "description": "BWV 847 Prelude in C minor ",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "author": "Michael Matuzak",
+  "license": "CC",
+  "dependencies": {
+    "nesly-sound": "^2.7.0"
+  }
+}
